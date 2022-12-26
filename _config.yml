@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "devDependencies"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "첫 개발 블로그"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://daeyeub.github.io"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dae Yeub"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : #"I am an **"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
